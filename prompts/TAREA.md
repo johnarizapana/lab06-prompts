@@ -1,5 +1,5 @@
 # Tarea de Prompts: Mi prompt profesional 
-# Tarea: Mi prompt profesional
+
 
 ## Funcionalidad elegida
 He elegido construir un **CRUD de productos** (Crear, Leer, Actualizar, Eliminar) utilizando interfaces gráficas sencillas de escritorio en Java.
@@ -64,4 +64,8 @@ Formato de entrega: Explica brevemente en un párrafo la lógica del almacenamie
 | ¿Gestiona las 4 operaciones del CRUD con id, nombre y precio? | Sí |
 | ¿Cumple la restricción de almacenar datos en memoria sin librerías externas? | Sí |
 | ¿Valida que el precio sea estrictamente mayor a cero utilizando JOptionPane? | Sí |
+## Errores que evite
+
+1. **Mezclar demasiadas instrucciones:** Lo evité usando saltos de línea claros y una lista numerada exclusiva para delimitar las "Restricciones estrictas", separándolas del rol y del contexto base.
+2. **No indicar el formato:** Lo evité añadiendo la sección final "Formato de entrega", exigiéndole explícitamente un párrafo teórico introductorio seguido del bloque de código fuente ordenado.
 
